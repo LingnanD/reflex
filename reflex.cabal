@@ -46,7 +46,7 @@ library
     Reflex.Class,
     Reflex.Deletable.Class,
     Reflex.Dynamic,
-    Reflex.Dynamic.TH,
+    -- Reflex.Dynamic.TH,
     Reflex.Dynamic.Uniq,
     Reflex.DynamicWriter,
     Reflex.Host.Class,

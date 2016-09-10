@@ -57,7 +57,7 @@ library
     Reflex.Spider,
     Reflex.Spider.Internal
 
-  other-extensions: TemplateHaskell
+  -- other-extensions: TemplateHaskell
   ghc-options: -Wall -fwarn-tabs -funbox-strict-fields -O2
   ghc-prof-options: -auto-all
 

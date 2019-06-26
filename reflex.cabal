@@ -24,8 +24,8 @@ flag use-reflex-optimizer
 
 flag use-template-haskell
   description: Use template haskell to generate lenses
-  default: True
-  manual: True
+  default: False
+  manual: False
 
 flag debug-trace-events
   description: Add instrumentation that outputs the stack trace of the definition of an event whenever it is subscribed to. Warning: It is very slow!
